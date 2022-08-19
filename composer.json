@@ -5,7 +5,7 @@
   "require": {
     "php": ">=7.4.0"
   },
-  "include-path": [
+  "files": [
     "phpMorphy/src/common.php"
   ]
 }
