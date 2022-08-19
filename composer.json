@@ -1,0 +1,8 @@
+{
+  "name" : "php74/phpMorphy",
+  "description": "https://mac-blog.org.ua/php-stemmer-morphy ported on php 7.4(beta)",
+  "type": "library",
+  "require": {
+    "php": ">=7.4.0"
+  }
+}
