@@ -5,12 +5,7 @@
   "require": {
     "php": ">=7.4.0"
   },
-  "files": [
-    "phpMorphy/src/common.php"
-  ],
   "autoload": {
-    "psr-4": {
-      "phpMorphy\\": "phpMorphy/"
-    }
+    "files": ["phpMorphy/src/common.php"]
   }
 }
