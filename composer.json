@@ -1,5 +1,5 @@
 {
-  "name" : "php74/phpMorphy",
+  "name" : "php74/phpmorphy74",
   "description": "https://mac-blog.org.ua/php-stemmer-morphy ported on php 7.4(beta)",
   "type": "library",
   "require": {
